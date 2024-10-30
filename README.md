@@ -42,6 +42,7 @@ println!("{}",z);</br>
 1</br>
 true</br>
 bye</br>
-####### Arrays
+
+###### Arrays
 ### Borrowing and ownership
 
