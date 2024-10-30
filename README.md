@@ -44,5 +44,11 @@ true</br>
 bye</br>
 
 ###### Arrays
+###### Vector
+- dynamic array.
+- pop and push to remove and add.
+- let mut nums=vec!{1,2,3};
+  nums.push(4);</br>//add number 4
+  println!({:?},nums);//debug mode
 ### Borrowing and ownership
 
