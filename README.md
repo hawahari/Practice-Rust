@@ -19,7 +19,6 @@ x=5;</br>
 ###### Integers
 - Integers can be 8 bits, 16 bits, 32 bits, 64 bits and 128 bits.
 ####### Integer Literals
-- 
 #### Operators
 - (plus)+
 - (minus)-
@@ -31,6 +30,7 @@ x=5;</br>
 ###### Compound types
 ####### Primitive compound types
 ######## Tuples
+- different data types.
 - have fixed length. Once declared cannot grow or shrink in size.
 - let tup={1,true,"bye"};
 - To access it: println!("{}",tup.2);
