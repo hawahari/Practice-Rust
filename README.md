@@ -21,8 +21,8 @@ x=5;</br>
 ####### Integer Literals
 - 
 #### Operators
--  +
--  -
+- (plus)+
+- (minus)-
 - /
 - %
 ###### Floating points
