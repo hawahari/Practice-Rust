@@ -27,9 +27,9 @@ x=5;</br>
 ###### Floating points
 ###### Boolean
 ###### Characters
-###### Compound types
-####### Primitive compound types
-######## Tuples
+##### Compound types
+###### Primitive compound types
+###### Tuples
 - different data types.
 - have fixed length. Once declared cannot grow or shrink in size.
 - let tup={1,true,"bye"};
