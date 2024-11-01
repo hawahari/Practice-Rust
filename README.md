@@ -54,5 +54,9 @@ bye</br>
 - let mut nums=vec!{1,2,3};
   nums.push(4);</br>//add number 4
   println!({:?},nums);//debug mode
+### Functions
+- fn to create a function.
+- calling same as C.
+- For function with parameters
 ### Borrowing and ownership
 
