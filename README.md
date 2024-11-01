@@ -57,6 +57,7 @@ bye</br>
 ### Functions
 - fn to create a function.
 - calling same as C.
-- For function with parameters
+- For function with parameters it is almost same. Declare variable.
+- For function which will return.
 ### Borrowing and ownership
 
