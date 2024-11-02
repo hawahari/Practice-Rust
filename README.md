@@ -60,4 +60,9 @@ bye</br>
 - For function with parameters it is almost same. Declare variable.
 - For function which will return.
 ### Borrowing and ownership
+- Stack and heap differences.
+- Each value has a owner.
+- There can only be one owner.
+- Ownerhip can be transferred.
+- When the value's owner goes out of scope, it is dropped or freed.
 
