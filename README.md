@@ -72,3 +72,5 @@ bye</br>
 - Tuple
 - Unit structures
 #### Methods
+- Methods are similar to functions.
+- They are declared with fn keyword and name. They take parameters and return values much like functions. 
