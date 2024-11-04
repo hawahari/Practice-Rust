@@ -65,4 +65,10 @@ bye</br>
 - There can only be one owner.
 - Ownerhip can be transferred.
 - When the value's owner goes out of scope, it is dropped or freed.
-
+### Structures and enums
+#### Structures
+- three types of structures.
+- Name field
+- Tuple
+- Unit structures
+#### Methods
