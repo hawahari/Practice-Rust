@@ -76,5 +76,6 @@ bye</br>
 - They are declared with fn keyword and name. They take parameters and return values much like functions. 
 #### Lifetime
 - Every refernce has lifetime.
+- If no refrence then, no lifetime is required.
 - Most of the time lifetime are implicit and inferred,
 - Lifetime to prevent dangling refrences.
