@@ -73,7 +73,8 @@ bye</br>
 - Unit structures
 #### Methods
 - Methods are similar to functions.
-- They are declared with fn keyword and name. They take parameters and return values much like functions. 
+- They are declared with fn keyword and name. They take parameters and return values much like functions.
+- Keyword: impl
 #### Lifetime
 - Every refernce has lifetime.
 - If no refrence then, no lifetime is required.
